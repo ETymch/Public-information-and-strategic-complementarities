@@ -1,4 +1,4 @@
-# Public-information-and-Strategic-Complementarities
+# Public information and Strategic Complementarities
 Materials from my MA Project at HSE
 
 Already there:
