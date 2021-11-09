@@ -5,6 +5,8 @@ Already there:
 
 1. The full ammended PDF of MA Thesis with annotations
 2. Full Julia code of a computational model presented in the work.
+3. Complete calibration of several paremeters for the model.
+4. Calibrated model describing optimal informationpolicy of the Bank of Russia.
 
 What's coming?
 
