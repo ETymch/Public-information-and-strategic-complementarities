@@ -14,3 +14,4 @@ What's coming?
 2. Empirical treatment of the results of the work: Public information and inflation expectations in Russia. See the calibrated model for the draft results
 3. English-language versions of thesis: will be added by chapter.
 4. Studying othes specifications of stochastic process (direction is described in the conclusion).
+5. Presentation of the paper.
