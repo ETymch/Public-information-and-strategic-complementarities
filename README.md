@@ -11,6 +11,6 @@ Already there:
 What's coming?
 
 1. Additional notebooks and findings from the computational model.
-2. Empirical treatment of the results of the work: Public information and inflation expectations in Russia.
+2. Empirical treatment of the results of the work: Public information and inflation expectations in Russia. See the calibrated model for the draft results
 3. English-language versions of thesis: will be added by chapter.
-4. Studying othes specifications of stochastic process (direction is described in the conclusion.
+4. Studying othes specifications of stochastic process (direction is described in the conclusion).
